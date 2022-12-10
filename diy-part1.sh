@@ -16,4 +16,3 @@
 # Add a feed source
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 echo 'src-git alist https://github.com/sbwml/luci-app-alist' >>feeds.conf.default
-echo 'src-git zerotier https://github.com/majik-sheff/luci-app-zerotier' >>feeds.conf.default
